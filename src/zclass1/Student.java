@@ -15,6 +15,8 @@ public class Student {
     public static void main(String[] args) {
         Student stu1 = new Student("영철",17,80);
         Student stu2 = new Student("찬우",17,80);
+
+
     }
 }
 
