@@ -18,5 +18,7 @@ public class JavaMemoryMain2 {
         System.out.println("method2 start");
         System.out.println(data1.getValue());
         System.out.println("method2 end");
+
+
     }
 }
