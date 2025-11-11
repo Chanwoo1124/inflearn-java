@@ -89,7 +89,7 @@ public class MyLinkedListV3<E> {
         removedNode.item = null;
         removedNode.next = null;
         size--;
-        return removedNode;
+        return (E) removedNode;
     }
 
 
